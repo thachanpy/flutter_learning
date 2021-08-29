@@ -11,12 +11,12 @@ const kActionButton = Color(0xFF4C4F5E);
 
 
 const kLabelTextStyle = TextStyle(
-  fontSize: 25.0,
+  fontSize: 20.0,
   color: Color(0x71FFFFFF),
 );
 
 const kNumberTextStyle = TextStyle(
-  fontSize: 70.0,
+  fontSize: 60.0,
   fontWeight: FontWeight.w900,
 );
 
