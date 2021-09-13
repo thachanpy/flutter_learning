@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166169365625",
+    "project_id": "thachanpy-flutter-example",
+    "storage_bucket": "thachanpy-flutter-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166169365625:android:4cf3368806701eeb9758a8",
+        "android_client_info": {
+          "package_name": "co.appbrewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166169365625-n2602t36fgor82s47ffb8hgrl023dvlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7RZl4bw2x5W_-IqJZlsBqoKQxEPjiMMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166169365625-n2602t36fgor82s47ffb8hgrl023dvlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
